@@ -4,11 +4,11 @@
 
 ### General Highlights of the Hulu-Clone App:
     
-**Responsive Design:** works well both on PC and mobile </br>
-**Subtle Hover Effect:** hidden text popup when hovering over icons and video cards<sup id="footnode_1">[1](#fn_1)</sup> </br>
-**onClick Movie Genre Change:** Movie Lists are inter-changeable based on user's genre selection in the Navigation Bar</br>
-**data fetching from API:** All movie infos are directly fetched from the TMDb<sup id="footnode_2">[2](#fn_2)</sup> with their API </br>
-**Movie Cards Popup Animation:** Video cards displaying neat pop-up effect when user switching from one movie genre to another</br>   
+   - **Responsive Design:** The App works well both on PC and mobile </br>
+   - **Subtle Hover Effect:** hidden text popup when hovering over icons and video cards<sup id="footnode_1">[1](#fn_1)</sup> </br>
+   - **onClick Movie Genre Change:** Movie Lists are inter-changeable based on user's genre selection in the Navigation Bar</br>
+   - **data fetching from API:** All movie infos are directly fetched from the TMDb<sup id="footnode_2">[2](#fn_2)</sup> with their API </br>
+   - **Movie Cards Popup Animation:** Video cards displaying neat pop-up effect when user switching from one movie genre to another</br>   
 
 ---
 
