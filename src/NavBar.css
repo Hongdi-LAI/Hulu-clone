@@ -2,4 +2,32 @@
   color: white;
   display: flex;
   overflow-x: scroll;
+  padding: 10px;
+  padding-left: 40px;
+}
+
+.navBar > h2 {
+  cursor: pointer;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: 500;
+  opacity: 0.7;
+  transition: transform 150ms ease-out;
+  /* keep text in one line */
+  white-space: nowrap;
+}
+
+.navBar > h2:hover {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+/* Chrome, Safari, Opera */
+.navBar::-webkit-scrollbar {
+  display: none;
+}
+
+.navBar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
