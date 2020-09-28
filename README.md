@@ -1,6 +1,7 @@
 
 
 # Video Streaming Service App - Design of [Hulu-Clone](https://hulu-clone-ca4f1.web.app/)
+</br>
 
 ### General Highlights of the Hulu-Clone App:
     
@@ -11,6 +12,7 @@
    | **onClick Movie Genre Change:**  | Movie Lists are inter-changeable based on user's genre selection in the Navigation Bar                |
    | **data fetching from API:**      | All movie infos are directly fetched from the TMDb<sup id="footnode_2">[2](#fn_2)</sup> with their API|
    | **Movie Cards Popup Animation:** | Video cards displaying neat pop-up effect when user switching from one movie genre to another         |   
+</br>
 
 ---
 
@@ -26,17 +28,23 @@
 
 All code for this project could be found in the 'src' folder.
 
+</br>
+
+
 ---
 
 ### External Plugins 
+</br>
 
 ---
 
 ### Components
+</br>
 
 ---
 
 ### My Other Open Source Projects
+</br>
 
 ---
 
