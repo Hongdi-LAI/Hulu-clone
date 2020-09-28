@@ -19,3 +19,23 @@
 .videoCard > h2 {
   padding-top: 10px;
 }
+
+.videoCard__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.videoCard__stats {
+  display: none;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.videoCard__stats > .videoCard__statsIcon {
+  height: 15px !important;
+}
+
+.videoCard:hover > .videoCard__info > .videoCard__stats {
+  display: inline;
+}
