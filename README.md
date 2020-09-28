@@ -1,9 +1,12 @@
 
 
 # Video Streaming Service App - Design of [Hulu-Clone](https://hulu-clone-ca4f1.web.app/)
+### This app has no copyrights reserved, I've done it simply because I like the web design and seek to recreate it :)
+
+
 </br>
 
-### General Highlights of the Hulu-Clone App:
+## General Highlights of the Hulu-Clone App:
     
    |    Highlights                    |                         Description                                                                   |
    | :------------------------------: | ----------------------------------------------------------------------------------------------------- |  
@@ -14,9 +17,9 @@
    | **Movie Cards Popup Animation:** | Video cards displaying neat pop-up effect when user switching from one movie genre to another         |   
 </br>
 
----
 
-### Languages and Tools:
+
+## Languages and Tools:
 
    |    Syntax   |                         Description                            |
    | :---------: | :------------------------------------------------------------: |  
@@ -31,24 +34,24 @@ All code for this project could be found in the 'src' folder.
 </br>
 
 
----
 
-### External Plugins 
+
+## External Plugins 
 </br>
 
----
 
-### Components
+
+## Components
 </br>
 
----
 
-### My Other Open Source Projects
+
+## My Other Open Source Projects
 </br>
 
----
 
-### Footnodes
+
+## Footnodes
 
 <b id="fn_1">[1]</b> Video Card here represent a single movie or TV component with their specific info. [↩](#footnode_1) </br>
 <b id="fn_2">[2]</b> TMDB is a popular user editable database for movies and TV shows. [↩](#footnode_2) </br>
