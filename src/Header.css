@@ -20,6 +20,7 @@
 .header > img {
   object-fit: contain;
   height: 80px;
+  cursor: pointer;
 }
 
 .header__icons {

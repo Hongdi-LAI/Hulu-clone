@@ -3,7 +3,7 @@
   display: flex;
   overflow-x: scroll;
   padding: 10px;
-  padding-left: 40px;
+  margin: 0 40px;
 }
 
 .navBar > h2 {

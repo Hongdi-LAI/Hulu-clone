@@ -11,6 +11,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Chrome, Safari, Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

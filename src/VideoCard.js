@@ -1,14 +1,14 @@
-import React from "react";
+import React, { forwardRef } from "react";
 import "./VideoCard.css";
 import TextTruncate from "react-text-truncate";
 import ThumbUpIcon from "@material-ui/icons/ThumbUp";
-import { Movie } from "@material-ui/icons";
 
 const base_url = "https://image.tmdb.org/t/p/original/";
 
-function VideoCard({ movie }) {
+// ref is a pointer
+const VideoCard = forwardRef(({ movie }, ref) => {
   return (
-    <div className="videoCard">
+    <div ref={ref} className="videoCard">
       <img
         src={`${base_url}${movie.backdrop_path || movie.poster_path}`}
         alt="movie poster missing"
@@ -33,6 +33,6 @@ function VideoCard({ movie }) {
       </div>
     </div>
   );
-}
+});
 
 export default VideoCard;

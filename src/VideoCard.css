@@ -4,6 +4,7 @@
   height: 400px;
   padding: 20px;
   transition: transform 100ms;
+  cursor: pointer;
 }
 
 .videoCard:hover {
@@ -24,9 +25,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 5px;
 }
 
 .videoCard__stats {
+  text-transform: capitalize;
   display: none;
   margin-right: 10px;
   margin-top: 5px;
