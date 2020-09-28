@@ -14,13 +14,13 @@
 
 ### Languages and Tools:
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Framework | React.js with Hooks/Function Component |
-| Languages | Javascript/CSS in BEM<sup id="footnode_3">[3](#fn_3)</sup>/HTML|
-| Code Editor | Visual Studio Code |
-| Hosting | Firebase Hosting Service |
-| Database | The Movie Database (TMDb) |
+   |    Syntax   |                         Description                            |
+   | :---------: | :------------------------------------------------------------: |  
+   | Framework   | React.js with Hooks/Function Component                         |
+   | Languages   | Javascript/CSS in BEM<sup id="footnode_3">[3](#fn_3)</sup>/HTML|
+   | Code Editor | Visual Studio Code                                             |
+   | Hosting     | Firebase Hosting Service                                       |
+   | Database    | The Movie Database (TMDb)                                      |
 
 All code for this project could be found in the 'src' folder.
 
@@ -41,8 +41,8 @@ All code for this project could be found in the 'src' folder.
 ### Footnodes
 
 <b id="fn_1">[1]</b> Video Card here represent a single movie or TV component with their specific info. [↩](#footnode_1) </br>
-<b id="fn_2">[2]</b> TMDB is a popular user editable database for movies and TV shows. [↩](#footnode_2)
-<b id="fn_3">[3]</b> BEM refers to the Block, Element, Modifier methodology which allows code to be scalable and reusable. [↩](#footnode_3)
+<b id="fn_2">[2]</b> TMDB is a popular user editable database for movies and TV shows. [↩](#footnode_2) </br>
+<b id="fn_3">[3]</b> BEM refers to the Block, Element, Modifier methodology which allows code to be scalable and reusable. [↩](#footnode_3) </br>
 
 
 
