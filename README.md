@@ -29,7 +29,7 @@
    | Hosting     | Firebase Hosting Service                                         |
    | Database    | The Movie Database (TMDb)                                        |
 
-All code for this project could be found in the 'src' folder.
+- *All code for this project could be found in the 'src' folder.*
 
 </br>
 
