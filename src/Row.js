@@ -3,7 +3,7 @@ import "./Row.css";
 
 function Row() {
   return (
-    <div>
+    <div className="row">
       <h1>Rows</h1>
     </div>
   );
