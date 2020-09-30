@@ -3,6 +3,8 @@
 # Video Streaming Service App - Design of [Hulu-Clone](https://hulu-clone-ca4f1.web.app/)
  This app has no copyrights reserved, I've done it simply because I like the web design and seek to recreate it :)
 
+<img src="Hulu-Profile.PNG" height = "450px" width="1200px" />
+
 
 </br>
 
